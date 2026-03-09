@@ -12,6 +12,9 @@ h1{
 }
 
 .persona2{
-   background-color: lightgreen;
+   background-color: rgb(34,156,200);
    padding: 20px;
+  font-weight: bold; 
+   font-size: 18px;
+   color: blue;
 }
